@@ -1,5 +1,5 @@
-
-  
+![Header](./github-header-image.gif)
+<hr>  
 <div align="center">
   <a href="https://github.com/kelving0mes" target="_blank"><img src="https://img.shields.io/badge/GitHub-%233C3C3D.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
   <a href="https://www.linkedin.com/in/kelving0mes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,7 +17,6 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  
   <a href="https://reactnative.dev/" target="_blank"> <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react-native"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"></a>
   <a href="https://kotlinlang.org/" target="_blank"> <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"></a>
