@@ -62,11 +62,7 @@
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 </div>
 
-<div align="center">
-    <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=%23000000&color_dots=%23FFD700,%23FFEC8B,%23FFE4B5,%23FFD700,%23FFC125#gh-dark-mode-only" alt="Snake animation">
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=%23000000#gh-light-mode-only" alt="Snake animation">
-</div>
+![snake animation](https://github.com/kelving0mes/kelving0mes/blob/output/github-contribution-grid-snake2.svg)
 
 
 
