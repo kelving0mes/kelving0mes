@@ -1,21 +1,30 @@
 ![Header](./github-header-image.gif)
-<hr>  
+  
 <div align="center">
-  <a href="https://github.com/kelving0mes" target="_blank"><img src="https://img.shields.io/badge/GitHub-%233C3C3D.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://www.linkedin.com/in/kelving0mes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kelvingomes04@gmail.com?subject=Hello%20kelving0mes,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/kelving0mes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23DD2A7B.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%2325BE48.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://github.com/kelving0mes"><img src="https://img.shields.io/badge/GitHub-%233C3C3D.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+  <a href="https://www.linkedin.com/in/kelvingomes/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kelvingomes04@gmail.com?subject=Hello%20kelving0mes,%20From%20Github"><img src="https://img.shields.io/badge/kelvingomes04@gmail.com-%23D14836.svg?&style=flat-square&&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kelving0mes/"><img src="https://img.shields.io/badge/Instagram-%23DD2A7B.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://open.spotify.com/playlist/4AMR2s3yJSP9J1qejFx5aj?si=03987ee77d464deb"><img src="https://img.shields.io/badge/Spotify-%2325BE48.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=kelving0mes&label=Profile%20views&color=0e75b6&style=flat" alt="kelving0mes" /> </p>
 </div>
-</h2>
-- 🌱 I’m currently learning **Java, React-Native, PL/SQL**
 
-- 👯 I’m looking to collaborate on **tudo que eu puder**
-<p align="left">
+<hr> 
+
+<p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP, último semestre.
+
+👨‍💻 Atualmente desenvolvendo um chatbot de Threat Intelligence utilizando IA como projeto da faculdade.
+
+💻 Apaixonado por tecnologia, programação, banco de dados e análise de dados.
+
+📱 Explorando o mundo do desenvolvimento mobile e inteligência artificial.
+
+🚀 Sempre em busca de novos desafios e aprendizados no universo tech.
 </p>
+
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <div align="center">
   <a href="https://reactnative.dev/" target="_blank"> <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react-native"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"></a>
@@ -41,12 +50,10 @@
 </div>
 <hr>
 
-<h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/kelving0mes/github-readme-stats -->
+<h3>📊 GitHub Profile Stats</h3>
   <a href="https://github.com/kelving0mes/github-readme-stats"><img alt="kelving0mes's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kelving0mes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/kelving0mes/github-readme-stats"><img alt="kelving0mes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kelving0mes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+  <a href="https://github.com/kelving0mes/github-readme-stats"><img alt="Principais Linguagens de kelving0mes" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kelving0mes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<hr>
   
 
 <div align="center">
@@ -54,3 +61,12 @@
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 </div>
+
+<div align="center">
+    <!-- Contribution Heatmap with Snake Animation -->
+    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=%23000000&color_dots=%23FFD700,%23FFEC8B,%23FFE4B5,%23FFD700,%23FFC125#gh-dark-mode-only" alt="Snake animation">
+    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=%23000000#gh-light-mode-only" alt="Snake animation">
+</div>
+
+
+
