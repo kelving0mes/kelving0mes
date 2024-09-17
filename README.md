@@ -55,14 +55,34 @@
   <a href="https://github.com/kelving0mes/github-readme-stats"><img alt="Principais Linguagens de kelving0mes" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kelving0mes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <hr>
   
+<h3 align="left">📦 Repositories</h3>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kelving0mes/Emi-MobileApp" title="Aplicativo EMI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kelving0mes&repo=Emi-MobileApp&theme=react&border_color=e4556e&border_radius=10&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></a>
+  <a align="right" href="https://github.com/kelving0mes/MinionsSocialMedia" title="Minion Social Media APP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kelving0mes&repo=MinionsSocialMedia&theme=react&border_color=e4556e&border_radius=10&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kelving0mes/enfermeira-digital-gs" title="Global Solution Notredame Intermedica"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kelving0mes&repo=enfermeira-digital-gs&theme=react&border_color=e4556e&border_radius=10&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></a>
+  <a align="right" href="https://github.com/kelving0mes/cp5-pokeapi" title="Pokedix React API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kelving0mes&repo=cp5-pokeapi&theme=react&border_color=e4556e&border_radius=10&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kelving0mes/Global-Solution" title="Global Solution Heinz"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kelving0mes&repo=Global-Solution&theme=react&border_color=e4556e&border_radius=10&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></a>
+  <a align="right" href="https://github.com/kelving0mes/pokedex-react" title="Poke-API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kelving0mes&repo=pokedex-react&theme=react&border_color=e4556e&border_radius=10&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
+<h4 align="center">
+  <a href="https://github.com/kelving0mes?tab=repositories" title="ver repositórios">🔎 Ver Mais 🔍</a>
+</h4>
+<hr>
+<h3>🔥 Contribution Activity</h3>
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 </div>
-
-![snake animation](https://github.com/kelving0mes/kelving0mes/blob/output/github-contribution-grid-snake2.svg)
 
 
 
